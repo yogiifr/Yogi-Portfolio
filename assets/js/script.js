@@ -163,8 +163,9 @@ for (let i = 0; i < navigationLinks.length; i++) {
 const mHTML = document.getElementById('message'),
 messages = [
   'a Data Engineer',
+  'a UIX Designer',
   'also exploring WebDev',
-  'pursuing Cloud Certificate'
+  'a future Google Designer'
 ];
 let currentMessage = 0;
 function typeMessage() {
